@@ -1,2 +1,4 @@
 # hello-world
-my projects collection
+**I am Siva Parvathi S.**
+---
+*I love developing interactive websites*
